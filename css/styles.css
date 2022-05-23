@@ -120,8 +120,8 @@ ul, ol {
     height: 4px;
     background-color: #188CE8;
     display: block;
-    transform: translateY(29px);
     position: absolute;
+    bottom: -33px;
     left: 0;
     border-radius: 2px;
 }
